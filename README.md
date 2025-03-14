@@ -15,8 +15,8 @@ This implementation is adapted from [Fracture Detection Improved YOLOv8](https:/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hereisamara/yolov8-cbam.git
-   cd yolov8-cbam
+   git clone https://github.com/hereisamara/yolov8-cbam-seg.git
+   cd yolov8-cbam-seg
    ```
 
 2. Install dependencies:
